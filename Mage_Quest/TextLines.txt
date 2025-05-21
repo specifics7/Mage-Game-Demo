@@ -1,0 +1,5 @@
+string1*Tybalt: 'All the lights in the sky are stars....'
+string2*Tybalt: 'There is no time to lose, I must hurry to the next point!'
+string3*Tybalt: 'I have to find a way back soon!'
+string4*Tybalt: 'I fear only what I can't comprehend.'
+string5*Tybalt: 'I'm running low on equipment, better stock up.'
